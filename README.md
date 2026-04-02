@@ -8,6 +8,6 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,redux,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,redux,nodejs" />
 </p>
 
