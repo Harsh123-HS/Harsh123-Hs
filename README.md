@@ -59,15 +59,10 @@
 ## 🚀 Featured Projects
 
 ### 🧠 Quiz Web Application
-- 5+ quiz categories
+- 50+ quiz categories
 - Real-time score tracking
 - Authentication with Supabase
 - Dark / Light theme support
-
-### ✅ To-Do List Application
-- CRUD task management
-- Redux Toolkit state management
-- Centralized store architecture
 
 ### 🌤️ Weather Application
 - Live weather API integration
