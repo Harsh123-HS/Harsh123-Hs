@@ -13,7 +13,6 @@
 - ⚡ Skilled in **React.js, Redux Toolkit, Tailwind CSS, JavaScript**
 - 🔥 Currently exploring **Backend Development with Node.js & APIs**
 - 🎯 Interested in **Full Stack Development & AI-powered products**
-- 📍 Based in India
 
 ---
 
